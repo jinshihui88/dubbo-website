@@ -15,6 +15,7 @@ content:
     - "[注册中心配置指南](reference-manual/registry/)"
   - 升级与兼容性:
     - "[3.0 迁移指南](upgrades-and-compatibility/)"
+    - dsdsdsds
 ---
 
 {{% docs/content_box %}}
